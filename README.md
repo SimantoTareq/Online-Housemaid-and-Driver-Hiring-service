@@ -53,10 +53,10 @@ With that username/password, users can login to their Dashboard.
 This is the page where workers come after signing in to the website. This is basically the
 dashboard for Workers.
 
-###- Looking for Driving Job
+### - Looking for Driving Job
 The driver will be able to see the posted job from this section.
 
-###- Looking for Maid job
+### - Looking for Maid job
 The maid will be able to see the posted job from this section.
 
 ### - See Review 
@@ -64,7 +64,7 @@ The maid will be able to see the posted job from this section.
 In this page, a worker can see their review that has been given by the users. Here
 workers can see his/her review but the reviewer name would be anonymous.
 
-###- Give Review : 
+### - Give Review : 
 In this section workers can also give their reviews anonymously about the owners. 
 
 ### - Massage from Admin :
