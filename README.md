@@ -142,25 +142,27 @@ type with the following information for both of them:
  
 (user can register here)
 Driver/Maid Register:
-(Driver/Maid can register here)
+     (Driver/Maid can register here)
+
 User View:
-##           Looking for Driver:
-(User will find a button to select Driver. After selecting that all the drivers will be
-shown there
-● Select Maid
-● Maid Name
-● Maid Address
-● Phone Number)
+##  Looking for Driver:
+    (User will find a button to select Driver. After selecting that all the drivers will be
+      shown there
+      ● Select Maid
+      ● Maid Name
+      ● Maid Address
+      ● Phone Number)
 
-           Looking for Maid :
-            (User will find a button to select Maid. After selecting that all the Maids will be
-shown there.
-● Select Maid
-● Maid Name
-● MaidAddress
-● Phone Number )
+  ## Looking for Maid :
+        (User will find a button to select Maid. After selecting that all the Maids will be
+           shown there.
+           ● Select Maid
+           ● Maid Name
+           ● MaidAddress
+           ● Phone Number )
 
-           Urgent Driver/Maid need: (User will find a form. There he will select how many 
+ ## Urgent Driver/Maid need:
+           (User will find a form. There he will select how many 
  
  
  
@@ -171,89 +173,71 @@ Driver or Maid. Then he will submit it.
 ● Area
 ● Select Driver/Maid  )  
 
-          See Review :(User will see the reviews which were given by the worker. But the
-name will be anonymous.
-● Comments  ) 
+   ## See Review :
+          (User will see the reviews which were given by the worker. But the
+            name will be anonymous.
+            ● Comments  ) 
 
-          Give Review: (User will find an option to give review of works. His identity will be
-anonymous.
-● Anonymous Name
-● Comments)      
+  ## Give Review:
+          (User will find an option to give review of works. His identity will be
+            anonymous.
+             ● Anonymous Name
+             ● Comments)      
 
-           Message to Admin:( Users will find an option to message admin. There will be
-an option to reset password, if someone forgot password. And a option for feedback
-● Message
-● Reset Password
-● Feedback   )
+   
 
 ## Log Out :
  
  
-(it’s used when user wants to log out 
-● Log out) 
+    (it’s used when user wants to log out) 
  
 
 ## Driver/ Maid View :
-(After worker logged in) 
+    (After worker logged in) 
  
  
  
 ## Looking for Driving Job : 
  
  
-(In this section they will the posted jobs and the information of the owners  
-who need workers for their cars, buses, trucks etc.) 
+    (In this section they will the posted jobs and the information of the owners  
+      who need workers for their cars, buses, trucks etc.) 
  
  
 ## Looking for Maid Job : 
  
  
-(In this section they will the posted jobs and the information of the owners 
-who need workers for their cars, buses, trucks etc.) 
+     (In this section they will the posted jobs and the information of the owners 
+       who need workers for their cars, buses, trucks etc.) 
 
  
 ## See Reviews : 
  
-(Here they can see the reviews about themselves)
-●  Annoynomes name
-● Comments
+     (Here they can see the reviews about themselves)
+       ●  Annoynomes name
+       ● Comments
 
 ## Give Review :
  
  
  
-(They can write a review about the owners as well)
-● Username
-● Tittle (Driver/Maid/Owner)
-● Comments 
-● Submit 
+    (They can write a review about the owners as well)
+      ● Username
+      ● Tittle (Driver/Maid/Owner)
+      ● Comments 
+      ● Submit 
  
  
  ##  Messages : 
  
  
-(The workers will be able to read messages from admin panel) 
+    (The workers will be able to read messages from admin panel) 
 
  
 ## Log Out : 
  
  
-(it’s used when workers wants to log out) 
+    (it’s used when workers wants to log out) 
 
 
  
-## Admin View:
-(After admin logs in through different URL)
-User List
-(it shows the list of all the users – users and Drivers/Maids with the following
-options to be done)
-- Activate
- 
- 
- 
-(It is used to activate any particular user/s) 
-## - Deactivate
-(It is used to deactivate any particular user/s)
-
-## Log Out
-(it’s used when admin wants to log out) 
