@@ -119,34 +119,34 @@ activate or deactivate each user and each user link will show all the details of
  
 ## Public View: 
  
-## Home page: 
-(This is the public page, whenever anyone hits the website, they will land here. It
-will contain the following information.)
-Information:
-(It will contain the detailed information about the site and How it works)
-Log in:
-(It invokes the login module for the registered users:
-● username
-● password
-Register:
-(It redirects the users to any of the following pages depending on their
-type with the following information for both of them:
-● username
-● password
-● Full Name
-● Address
-● Permanent address
-● Interested place (Area)
-● Mobile number
+   ## Home page: 
+    (This is the public page, whenever anyone hits the website, they will land here. It
+     will contain the following information.)
+       Information:
+         (It will contain the detailed information about the site and How it works)
+       Log in:
+         (It invokes the login module for the registered users:
+          ● username
+          ● password
+       Register:
+          (It redirects the users to any of the following pages depending on their
+            type with the following information for both of them:
+          ● username
+          ● password
+          ● Full Name
+          ● Address
+          ● Permanent address
+          ● Interested place (Area)
+          ● Mobile number
 ## User Register: 
  
-(user can register here)
-Driver/Maid Register:
+       (user can register here)
+    Driver/Maid Register:
      (Driver/Maid can register here)
 
-User View:
-##  Looking for Driver:
-    (User will find a button to select Driver. After selecting that all the drivers will be
+## User View:
+###   Looking for Driver:
+        (User will find a button to select Driver. After selecting that all the drivers will be
       shown there
       ● Select Maid
       ● Maid Name
